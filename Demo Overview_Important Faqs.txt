@@ -4,7 +4,7 @@ a) What are the types of data available in IT?
 
 b) What are the storage formats available in IT?
 
-	File, Database
+	File, Databasemmm
 
 c) What are the storage areas available in IT?
 
